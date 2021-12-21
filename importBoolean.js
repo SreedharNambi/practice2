@@ -1,0 +1,1 @@
+let isPresent = require("./exportBoolean");
